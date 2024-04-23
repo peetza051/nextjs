@@ -1,4 +1,4 @@
-@tailwind base;
+@tailwind base;   /* เป็นการเครียbaseของhtmlออก เช่น h1-h6 เป็นการพิมพ์ใหญ่ แต่พอใส่มันจะเป็นการลบbase เพื่อmanage code ได้ง่ายกว่า */
 @tailwind components;
 @tailwind utilities;
 
